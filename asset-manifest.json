@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ds-react/static/css/main.a4200145.chunk.css",
-    "main.js": "/ds-react/static/js/main.93125ed7.chunk.js",
-    "main.js.map": "/ds-react/static/js/main.93125ed7.chunk.js.map",
-    "runtime-main.js": "/ds-react/static/js/runtime-main.db9a55e5.js",
-    "runtime-main.js.map": "/ds-react/static/js/runtime-main.db9a55e5.js.map",
-    "static/css/2.52738377.chunk.css": "/ds-react/static/css/2.52738377.chunk.css",
-    "static/js/2.c1d10254.chunk.js": "/ds-react/static/js/2.c1d10254.chunk.js",
-    "static/js/2.c1d10254.chunk.js.map": "/ds-react/static/js/2.c1d10254.chunk.js.map",
-    "index.html": "/ds-react/index.html",
-    "precache-manifest.ac89541374a5f74d54745719cb03432c.js": "/ds-react/precache-manifest.ac89541374a5f74d54745719cb03432c.js",
-    "service-worker.js": "/ds-react/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/ds-react/static/css/2.52738377.chunk.css.map",
-    "static/css/main.a4200145.chunk.css.map": "/ds-react/static/css/main.a4200145.chunk.css.map",
-    "static/js/2.c1d10254.chunk.js.LICENSE.txt": "/ds-react/static/js/2.c1d10254.chunk.js.LICENSE.txt"
+    "main.css": "/bbc-react/static/css/main.a4200145.chunk.css",
+    "main.js": "/bbc-react/static/js/main.82d9b973.chunk.js",
+    "main.js.map": "/bbc-react/static/js/main.82d9b973.chunk.js.map",
+    "runtime-main.js": "/bbc-react/static/js/runtime-main.3e360e00.js",
+    "runtime-main.js.map": "/bbc-react/static/js/runtime-main.3e360e00.js.map",
+    "static/css/2.52738377.chunk.css": "/bbc-react/static/css/2.52738377.chunk.css",
+    "static/js/2.0204e186.chunk.js": "/bbc-react/static/js/2.0204e186.chunk.js",
+    "static/js/2.0204e186.chunk.js.map": "/bbc-react/static/js/2.0204e186.chunk.js.map",
+    "index.html": "/bbc-react/index.html",
+    "precache-manifest.00a43b255fc37b249bfea3eb7afa5276.js": "/bbc-react/precache-manifest.00a43b255fc37b249bfea3eb7afa5276.js",
+    "service-worker.js": "/bbc-react/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/bbc-react/static/css/2.52738377.chunk.css.map",
+    "static/css/main.a4200145.chunk.css.map": "/bbc-react/static/css/main.a4200145.chunk.css.map",
+    "static/js/2.0204e186.chunk.js.LICENSE.txt": "/bbc-react/static/js/2.0204e186.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db9a55e5.js",
+    "static/js/runtime-main.3e360e00.js",
     "static/css/2.52738377.chunk.css",
-    "static/js/2.c1d10254.chunk.js",
+    "static/js/2.0204e186.chunk.js",
     "static/css/main.a4200145.chunk.css",
-    "static/js/main.93125ed7.chunk.js"
+    "static/js/main.82d9b973.chunk.js"
   ]
 }
