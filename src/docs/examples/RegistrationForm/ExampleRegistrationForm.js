@@ -1,5 +1,5 @@
 import React from 'react';
-import RegistrationForm from 'bbc-react/RegistrationForm';
+import RegistrationForm from 'bbc-react/lib/RegistrationForm';
 
 export default class ExampleRegistrationForm extends React.Component {
   onSubmit = (user) => {
