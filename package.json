@@ -1,7 +1,18 @@
 {
   "name": "ds-react",
   "version": "0.1.0",
+  "main": "./lib/index.js",
   "private": true,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "author": {
+    "name": "Bruno Bezerra",
+    "email": "brunobezerrachaves@gmail.com"
+  },
+  "files": [
+    "lib"
+  ],
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -92,9 +103,21 @@
   },
   "babel": {
     "presets": [
+      [
+        "env",
+        {
+          "modules": "commonjs"
+        }
+      ],
       "react-app"
     ]
   },
+  "keywords": [
+    "components",
+    "react",
+    "react-component",
+    "toolkit"
+  ],
   "devDependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
@@ -111,6 +134,8 @@
     "camelcase": "^5.3.1",
     "case-sensitive-paths-webpack-plugin": "2.3.0",
     "chokidar": "^3.4.0",
+    "cpx": "^1.5.0",
+    "cross-env": "^7.0.2",
     "css-loader": "3.4.2",
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
@@ -150,6 +175,7 @@
     "react-test-renderer": "^16.13.1",
     "resolve": "1.15.0",
     "resolve-url-loader": "3.1.1",
+    "rimraf": "^3.0.2",
     "sass-loader": "8.0.2",
     "semver": "6.3.0",
     "style-loader": "0.23.1",
