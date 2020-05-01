@@ -1,5 +1,5 @@
 import React from 'react';
-import Label from 'ds-react/Label';
+import Label from 'bbc-react/Label';
 
 /** Optional label */
 export default function ExampleOptional() {

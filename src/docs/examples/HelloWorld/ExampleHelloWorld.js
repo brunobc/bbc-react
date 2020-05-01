@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from 'ds-react/HelloWorld';
+import HelloWorld from 'bbc-react/HelloWorld';
 
 /** Custom message */
 export default function ExampleHelloWorld() {

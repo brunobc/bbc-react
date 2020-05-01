@@ -51,7 +51,7 @@ function createPackageFile() {
       } = packageData;
 
       const minimalPackage = {
-        name: 'ds-react',
+        name: 'bbc-react',
         author,
         version,
         description,

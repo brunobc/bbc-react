@@ -1,8 +1,7 @@
 {
-  "name": "ds-react",
+  "name": "bbc-react",
   "version": "0.1.0",
   "main": "./lib/index.js",
-  "private": true,
   "engines": {
     "node": ">=10.0.0"
   },
@@ -18,7 +17,7 @@
     "react-dom": "^16.13.1",
     "styled-components": "^5.1.0"
   },
-  "homepage": "http://brunobc.github.io/ds-react/",
+  "homepage": "http://brunobc.github.io/bbc-react/",
   "scripts": {
     "prestart": "npm run gen:docs",
     "start": "npm-run-all --parallel start:docs gen:docs-watch",

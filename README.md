@@ -5,13 +5,13 @@ A library of React components created in [Creating Reusable React Components](ht
 ## Install
 
 ```
-npm install ds-react
+npm install bbc-react
 ```
 
 ## Issues
 
-[Here's a list of current known issues](https://brunobc.github.io/ds-react/issues).
+[Here's a list of current known issues](https://brunobc.github.io/bbc-react/issues).
 
 ## Docs
 
-[Component documentation](http://brunobc.github.io/ds-react/)
+[Component documentation](http://brunobc.github.io/bbc-react/)
