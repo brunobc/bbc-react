@@ -5,6 +5,7 @@
   "engines": {
     "node": ">=10.0.0"
   },
+  "private": true,
   "author": {
     "name": "Bruno Bezerra",
     "email": "brunobezerrachaves@gmail.com"
