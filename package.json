@@ -104,9 +104,9 @@
   "babel": {
     "presets": [
       [
-        "env",
+        "@babel/preset-env",
         {
-          "modules": "commonjs"
+          "useBuiltIns": "entry"
         }
       ],
       "react-app"
@@ -119,7 +119,9 @@
     "toolkit"
   ],
   "devDependencies": {
+    "@babel/cli": "^7.8.4",
     "@babel/core": "7.9.0",
+    "@babel/preset-env": "^7.9.6",
     "@svgr/webpack": "4.3.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
